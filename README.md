@@ -5,10 +5,10 @@
 Bu platform, öğrencilerin kaliteli ders notlarına kolay erişmesini sağlarken, not tutan öğrencilerin de gelir elde etmesine yardımcı olur.  
 
 ##  Özellikler  
-- ** Dijital veya basılı not satışı  **
-- ** Öğrenciler için ek gelir fırsatı  **
-- ** Güvenilir ve kaliteli notlara erişim **
-- ** Kırtasiye entegrasyonu ile basılı sipariş desteği **
+-  Dijital veya basılı not satışı  
+-  Öğrenciler için ek gelir fırsatı  
+-  Güvenilir ve kaliteli notlara erişim 
+-  Kırtasiye entegrasyonu ile basılı sipariş desteği 
 
 ##  Kullanılan Teknolojiler  
 - **Frontend:** HTML, CSS, JavaScript  
